@@ -17,7 +17,7 @@
                 width: 100%;
             }
         </style>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGhYAuhSAasKtqd-DPNNNxjBXA1VH6Fgw&callback=initMap&libraries=&v=weekly"></script>
+        <script src=""></script>
         
     </head>
     <body>
